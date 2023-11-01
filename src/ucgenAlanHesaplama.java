@@ -1,5 +1,3 @@
-package ucgenAlanHesaplama;
-
 import java.util.Scanner;
 
 public class ucgenAlanHesaplama {

@@ -1,5 +1,3 @@
-package kdvHesaplama;
-
 import java.util.Scanner;
 
 public class kdvHesaplama {
