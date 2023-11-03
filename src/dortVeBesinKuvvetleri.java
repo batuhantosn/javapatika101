@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class girilenSayidanKucukIkininKuvveti {
+public class dortVeBesinKuvvetleri {
     public static void main(String[] args) {
         int sayi;
         Scanner scanner = new Scanner(System.in) ;
